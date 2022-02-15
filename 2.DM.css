@@ -1,0 +1,49 @@
+#grad {
+    color: red;
+}
+#godine {
+    color: red;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 21px;
+letter-spacing: -1.2px;
+word-spacing: 2.2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+}
+#fakultet {
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 13px;
+letter-spacing: 0.2px;
+word-spacing: -2.4px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: uppercase;
+}
+#hobi {
+font-family: Impact, Charcoal, sans-serif;
+font-size: 16px;
+letter-spacing: -1.6px;
+word-spacing: -2.4px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: uppercase;
+}
+#prijatelji {
+font-family: "Lucida Console", Monaco, monospace;
+font-size: 12px;
+letter-spacing: -1.6px;
+word-spacing: -2.4px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: lowercase;
+}
