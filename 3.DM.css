@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+#gore {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    gap: 10px;
+    }
+
+.login {
+    width: 50px;
+    hight: 50px;
+}
+
+#pretrazivanje {
+     display:flex;
+     justify-content: center;
+ }
+
+ #Slika {
+     display:flex;
+     justify-content: center;
+     margin-top: 80px;
+   }
+
+.boogle {
+width: 300px;
+height: 160px;
+}
+
+form.okvir input[type=text] {
+    padding: 10px;
+     font-size: 20px;
+     float: left;
+  width: 300px;
+  background: #C0C0C0;
+}
+
+form.okvir button {
+  float: left;
+  width: 30px;
+  padding: 7px;
+  background: #99CCFF;
+  color: black;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+form.okvir button:hover {
+  background: #0000FF;
+}
+
